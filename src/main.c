@@ -8,8 +8,8 @@ int foo(void) {
 }
 
 int goo(void) {
-    int dosMil = 2000;
-    return dosMil;
+    int theNumber = 126;
+    return theNumber;
 }
 
 int main(int argc, char* argv[]) {
