@@ -7,7 +7,8 @@ int foo(void) {
 }
 
 int goo(void) {
-    return 1;
+    int dosMil = 2000;
+    return dosMil;
 }
 
 int main(int argc, char* argv[]) {
