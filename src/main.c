@@ -3,7 +3,8 @@
 #include <commons/txt.h>
 
 int foo(void) {
-    return 1;
+    int dos = 2;
+    return dos;
 }
 
 int goo(void) {
